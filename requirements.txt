@@ -1,0 +1,10 @@
+requests
+PyMySQL
+SQLAlchemy
+tidb-vector>=0.0.9
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-core
+langchain-openai
